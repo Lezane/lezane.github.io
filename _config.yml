@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Clement Lezane"
 title_separator          : "-"
-name                     : &name "Clement Lezane"
+name                     : &name "Clément Lezane"
 description              : &description "PhD Student in Optimization"
 url                      : https://lezane.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "lezane/lezane.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Clément Lezane"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Netherlands"
+  employer         : "University of Twente"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "c.w.lezane@utwente.nl" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
