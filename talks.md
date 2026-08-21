@@ -4,11 +4,18 @@ title: Talks
 permalink: /talks/
 ---
 
-### Selected Talks
 
-* **ALT 2026** — *Toronto, Canada (2026)*  
+### International Conferences and Workshops
+
+* **ALT 2026** — *Toronto, Canada (Feb 2026)*  
   *Talk: Accelerated Mirror Descent for Non-Euclidean Star-convex Functions*  
   [Link](https://proceedings.mlr.press/v313/lezane26a.html)
+
+* **X-Recherche** - * Paris, France(Jan 2026)*
+*  *Talk: Modern Optimization problems and First order methods*
+
+* **AISTATS25** - * Phuket, Thailand(May 2025)*
+*  *Poster: Differentially Private Algorithms for Linear Queries via Stochastic Convex Optimization*  
 
 * **DAMUT MaPHS seminar** — *Enschede, Netherlands (2024)*  
   *Talk: From functional analysis to complexity analysis in optimisation [Link](https://www.utwente.nl/en/eemcs/damut/maphsseminar/archiveseminars/#2024)
