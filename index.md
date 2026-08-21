@@ -10,6 +10,11 @@ title: Home
 📍 [ANITI Toulouse]  
 📧 [clement.lezane@univ-toulouse.fr]
 
+### 📌 Quick Links
+**[🏠 Home](/) &nbsp;&nbsp;|&nbsp;&nbsp; [📄 Publications](/publications/) &nbsp;&nbsp;|&nbsp;&nbsp; [🎤 Talks](/talks/) &nbsp;&nbsp;|&nbsp;&nbsp; [💻 Code](/code/)**
+
+---
+
 ## About Me
 I am a Postdoctoral Researcher at ANITI Toulouse, working in collaboration with Jérôme Bolte, Jean-Michel Loubes, and François Bachoc. My current research focuses on developing rigorous machine learning metrics to evaluate and benchmark the fairness of existing optimization algorithms.
 
