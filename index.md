@@ -28,4 +28,4 @@ My research lies at the intersection of **optimization, machine learning, and st
 
 
 ### Contact & Profiles
-[Google Scholar](#) | [ResearchGate](https://www.researchgate.net/profile/Clement-Lezane-2) | [GitHub](#) | [CV (PDF)](#)
+[Google Scholar](https://scholar.google.com/citations?user=v-sZbs0AAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Clement-Lezane-2) 
