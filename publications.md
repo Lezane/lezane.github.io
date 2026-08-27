@@ -10,12 +10,12 @@ permalink: /publications/
 * **Accelerated Mirror Descent for Non-Euclidean Star-convex Functions**  
   **Clément Lezane**, Sophie Langer, Wouter M. Koolen.  
   *ALT 2026.*  
-  [[Link](https://openreview.net/forum?id=DMwybVYZJN)][[arXiv](https://arxiv.org/abs/2405.18976)] 
+  [[Link](https://proceedings.mlr.press/v313/lezane26a.html)][[arXiv](https://arxiv.org/abs/2405.18976)] 
 
 * **Differentially Private Algorithms for Linear Queries via Stochastic Convex Optimization**  
   Giorgio Micali, **Clément Lezane**, Annika Betken.  
   *AISTATS 2025.*  
-  [[Link](https://openreview.net/forum?id=RX61IOwwxD)][[arXiv](https://arxiv.org/abs/2411.00921)] 
+  [[Link](https://proceedings.mlr.press/v258/)][[arXiv](https://arxiv.org/abs/2411.00921)] 
 
 
 ### Journal Articles 
@@ -38,4 +38,4 @@ permalink: /publications/
 * **First Order Methods with Non-Euclidean Geometry**  
   **Clément Lezane**.  
   *Ph.D. Thesis, University of Twente, 2024.*  
-  [[UTwente Repository](https://research.utwente.nl/en/publications/first-order-methods-with-non-euclidean-geometry)]
+  [[Link](https://research.utwente.nl/en/publications/first-order-methods-with-non-euclidean-geometry)]
