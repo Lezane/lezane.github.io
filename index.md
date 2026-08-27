@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Homepage
 ---
 # Clément Lezane
 
@@ -10,7 +10,7 @@ title: Home
 📍 [ANITI Toulouse]  
 📧 [clement.lezane@univ-toulouse.fr]
 
-[🏠 Home](/) &nbsp;&nbsp;|&nbsp;&nbsp; [Publications](/publications/) &nbsp;&nbsp;|&nbsp;&nbsp; [Talks](/talks/) &nbsp;&nbsp;|&nbsp;&nbsp; [Code](/code/)
+&nbsp;&nbsp; [Publications](/publications/) &nbsp;&nbsp;|&nbsp;&nbsp; [Talks](/talks/) &nbsp;&nbsp;|&nbsp;&nbsp; [Code](/code/)
 
 ---
 
