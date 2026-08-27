@@ -12,11 +12,11 @@ permalink: /talks/
 
 * **X-Recherche** - *Paris, France(Jan 2026)*
   *Talk: Modern Optimization problems and First order methods*  
-  [[Slide](/assets/Chercheur_X_presentation.pdf)]
+  [[Slides](/assets/Chercheur_X_presentation.pdf)]
 
 * **AISTATS25** - *Phuket, Thailand(May 2025)*
   *Poster: Differentially Private Algorithms for Linear Queries via Stochastic Convex Optimization*
-  [[Slide](/assets/Poster_AISTAT.pdf)]
+  [[Poster](/assets/Poster_AISTAT.pdf)]
 
 * **DAMUT MaPHS seminar** — *Enschede, Netherlands (2024)*  
   *Talk: From functional analysis to complexity analysis in optimisation*
