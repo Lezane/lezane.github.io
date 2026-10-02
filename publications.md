@@ -6,6 +6,7 @@ permalink: /publications/
 ### Preprints
 * **Acceleration for Affine-coupling problems**
   **Clément Lezane**, Sophie Langer, Wouter M. Koolen
+  
 [[arXiv](https://arxiv.org/abs/2609.36997)] 
 
 * **On the comparison of optimizers for imbalanced learning**
