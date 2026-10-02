@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ### Preprints
+
 * **Acceleration for Affine-coupling problems**
   **Clément Lezane**, Sophie Langer, Wouter M. Koolen.
   *Preprint*
