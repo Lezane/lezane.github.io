@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Movie Genre Classification
-permalink: /code/movie-genre
+permalink: /code/movie-genre/
 ---
-
 
 **[Code](https://github.com/Lezane/Movie-Genre-Classification/blob/main/main.py)**
 
@@ -12,4 +11,4 @@ This started as a public data challenge to guess movie genres just by looking at
 
 The pipeline for the VLM approach is outlined below:
 
-![Movie Poster Illustration](assets/movie-poster.jpg)
+![Movie Poster Illustration](/assets/movie-poster.jpg)
