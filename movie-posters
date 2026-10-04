@@ -3,3 +3,14 @@ layout: page
 title: Movie Poster Classification
 permalink: /code/movie-posters
 ---
+
+
+**[Code](https://github.com/Lezane/Movie-Genre-Classification/blob/main/main.py)**
+
+### Description
+The initial project is to answer a public data challenge that classify movies genres from their poster only. 
+I expanded the scope to benchmark traditional CNN architectures against pre-trained Vision-Language Models (VLMs) with frozen weights.
+
+The pipeline for the VLM approach is outlined below:
+
+![Movie Poster Illustration](assets/movie-poster.jpg)
