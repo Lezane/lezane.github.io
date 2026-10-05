@@ -5,10 +5,32 @@ permalink: /code/movie-genre/
 ---
 
 ### Description
-This started as a public data challenge to guess movie genres just by looking at their posters. I expanded the scope to benchmark traditional CNN architectures against pre-trained Vision-Language Models (VLMs) with frozen weights. The datasets contains 19 movies genres. 
+This started as a public data challenge to guess movie genres just by looking at their posters. I expanded the scope to benchmark traditional CNN architectures against pre-trained Vision-Language Models (VLMs) with frozen weights. The dataset spans 19 distinct movie genres.
+
+### Evaluation Metrics
+Because this is a multi-label classification problem, the overwhelming number of true negatives (TN) can skew results. To account for this, we rely on two key metrics. 
+
+The first is the *minority F1-score*, defined as:
+\[ F1 = \frac{TP}{TP + FP + FN} \]
+where $TP$, $FP$, and $FN$ represent global true positives, false positives, and false negatives, respectively. 
+
+We also report *subset accuracy*, which evaluates the strict fraction of predictions where the exact set of genres is correctly identified.
+
+### Algorithms
 
 The pipeline for the VLM approach is outlined below:
 
 ![Movie Poster Illustration](/assets/movie-poster.jpg)
 
-**[Open source Code](https://github.com/Lezane/Movie-Genre-Classification/blob/main/main.py)**
+
+### Results
+
+| Model | Params | Minority F1 | Subset Acc. |
+| :--- | :---: | :---: | :---: |
+| Qwen3-VL (ZS Naive) | 4B | 66.11% | 8.91% |
+| Qwen3-VL (ZS JSON) | 4B | 64.09% | 11.68% |
+| Qwen3-VL + LR | 4B | 66.26% | 14.86% |
+| Qwen3-VL + MLP | 4B | 64.13% | 16.80% |
+| ResNet-18 | 12M | 49.01% | 9.22% |
+
+**[View Source Code on GitHub](https://github.com/Lezane/Movie-Genre-Classification/blob/main/main.py)**
