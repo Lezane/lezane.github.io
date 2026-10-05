@@ -12,7 +12,9 @@ This started as a public data challenge to guess movie genres just by looking at
 Because this is a multi-label classification problem, the overwhelming number of true negatives (TN) can skew results. To account for this, we rely on two key metrics. 
 
 The first is the *minority F1-score*, defined as:
+<div>
 \[ F1 = \frac{TP}{TP + FP + FN} \]
+</div>
 where $TP$, $FP$, and $FN$ represent global true positives, false positives, and false negatives, respectively. 
 
 We also report *subset accuracy*, which evaluates the strict fraction of predictions where the exact set of genres is correctly identified.
