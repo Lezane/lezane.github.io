@@ -2,6 +2,7 @@
 layout: page
 title: Movie Genre Classification
 permalink: /code/movie-genre/
+mathjax: true
 ---
 
 ### Description
