@@ -23,7 +23,7 @@ The goal here is to verify whether the structural distances between movie poster
 
 
 ### Sanity Check III: How Does This Approach Generalize to Other Data?
-we apply the same approach to a larger dataset from an open [Kaggle challenge (hosted by neha1703)](https://www.kaggle.com/datasets/neha1703/movie-genre-from-its-poster).
+We apply the same approach to a larger dataset from an open [Kaggle challenge (hosted by neha1703)](https://www.kaggle.com/datasets/neha1703/movie-genre-from-its-poster).
 
 
 ### Possible Follow-Up
