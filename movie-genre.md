@@ -13,7 +13,7 @@ Because this is a multi-label classification problem, the overwhelming number of
 
 The first is the *minority F1-score*, defined as:
 <div>
-\[ F1 = \frac{TP}{TP + FP + FN} \]
+\[ F1 = \frac{2TP}{2TP + FP + FN} \]
 </div>
 where $TP$, $FP$, and $FN$ represent global true positives, false positives, and false negatives, respectively. 
 
