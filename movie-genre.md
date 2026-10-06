@@ -43,4 +43,4 @@ We note that Qwen3-VL significantly outperforms ResNet-18 on the minority F1 met
 
 Before pursuing full fine-tuning or developing better-optimized architectures, it is necessary to benchmark these findings against other models (such as Vision Transformers) and additional datasets. I plan to expand the project [here](/code/movie-genre-2).
 
-**[View Source Code on GitHub](https://github.com/Lezane/Movie-Genre-Classification/blob/main/main.py)**
+**[View Source Code on GitHub](https://github.com/Lezane/Movie-Genre-Classification)**
