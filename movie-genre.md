@@ -41,6 +41,6 @@ We selected ResNet-18 as our baseline CNN model and Qwen3-VL as the VLM. For the
 ### Interpretation
 We note that Qwen3-VL significantly outperforms ResNet-18 on the minority F1 metric without any task-specific tuning or prompt engineering. Interestingly, the addition of a trainable classification head (the LR or MLP) primarily improves subset accuracy. 
 
-Before pursuing full fine-tuning or developing better-optimized architectures, it is necessary to benchmark these findings against other models (such as Vision Transformers) and additional datasets. I plan to expand the project here.
+Before pursuing full fine-tuning or developing better-optimized architectures, it is necessary to benchmark these findings against other models (such as Vision Transformers) and additional datasets. I plan to expand the project [here](/code/movie-genre-2).
 
 **[View Source Code on GitHub](https://github.com/Lezane/Movie-Genre-Classification/blob/main/main.py)**
