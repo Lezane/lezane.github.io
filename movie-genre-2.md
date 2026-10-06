@@ -17,7 +17,7 @@ The goal here is to verify whether the structural distances between movie poster
 | :--- | :---: | 
 | $\sigma = 0.1$ | 6.72 (± 2.22) |
 | $\sigma = 0.2$ | 8.65 (± 3.47) |
-| $\sigma = 0.5$ | 6.72 (± 11.85) |
+| $\sigma = 0.5$ | 15.84 (± 11.85) |
 
 ### Sanity Check II: Does Feature Extraction Improve with Larger VLMs?
 
