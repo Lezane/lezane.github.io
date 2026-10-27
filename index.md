@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Homepage
+title: Clément Lezane — Personal Website
 ---
 # Clément Lezane
 
