@@ -2,7 +2,6 @@
 layout: home
 title: Clément Lezane — Personal Website
 ---
-# Clément Lezane
 
 <img src="assets/profile.png" alt="Clément Lezane" width="220" style="float: right; border-radius: 8px; margin-left: 20px; margin-bottom: 20px;">
 
