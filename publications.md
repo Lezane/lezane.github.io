@@ -47,5 +47,5 @@ permalink: /publications/
 
 * **First Order Methods with Non-Euclidean Geometry**  
   Clément Lezane.  
-  *Ph.D. Thesis, University of Twente, 2024.*  
+  *Ph.D. Thesis, University of Twente, 2025.*  
   [[Link](https://research.utwente.nl/en/publications/first-order-methods-with-non-euclidean-geometry)]
