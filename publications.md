@@ -13,6 +13,8 @@ permalink: /publications/
 
 * **On the comparison of optimizers for imbalanced learning**
   Clément Lezane, Jérôme Bolte, François Bachoc, Jean-Michel Loubes
+  *Preprint*
+  [[arXiv](https://arxiv.org/abs/2610.06421)]   
 
 
 ### Conference Proceedings
